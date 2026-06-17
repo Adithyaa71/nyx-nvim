@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+.Python
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  #  see: https://github.com/pyinstaller/pyinstaller/issues/1113
+#  #  https://github.com/pyinstaller/pyinstaller/issues/2195
+#  https://github.com/pyinstaller/pyinstaller/issues/4688
+#  https://github.com/pyinstaller/pyinstaller/issues/4880
+*.exe
+*.exe.stackdump
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.mypy_cache/
+.pytest_cache/
+.pyflakes
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Vim
+*~
+.swp
+.swl
+.swo
+
+# Neovim
+.nvim/
+.cache/nvim/
+.local/share/nvim/
+.plug/
+.vim/
+.viminfo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Local config files
+local/
+config/
