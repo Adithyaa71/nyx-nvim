@@ -147,7 +147,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 📬 Contact
 
-Nyx-Nvim - A modern AI-assisted Neovim configuration
+Questions or issues? Open a [GitHub issue](https://github.com/Adithyaa71/nyx-nvim/issues) or reach out via [GitHub](https://github.com/Adithyaa71).
 
 ---
 
