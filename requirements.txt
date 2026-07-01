@@ -1,0 +1,10 @@
+# Nyx-Nvim Python dependencies
+
+# Core: Neovim Python bridge
+pynvim>=0.5.0
+
+# MCP protocol
+mcp>=1.0.0
+
+# Utilities
+typing_extensions>=4.0.0
